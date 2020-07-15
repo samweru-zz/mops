@@ -1,0 +1,16 @@
+{
+    "name": "samweru/mops",
+    "description": "Matrix Operations",
+    "type": "library",
+    "require-dev": {
+        "phpunit/phpunit": "^9.2"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Samuel Weru",
+            "email": "samweru@gmail.com"
+        }
+    ],
+    "require": {}
+}
