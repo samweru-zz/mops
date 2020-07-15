@@ -1,11 +1,16 @@
 Matrix Operations
 =======
 
+## Installation
+
+```php
+composer require samweru/mops
+```
+
 ## Example
 
 ```php
-$loader = require "vendor/autoload.php";
-$loader->add('Mops', "src/");
+require "vendor/autoload.php";
 
 $a = array(
 
